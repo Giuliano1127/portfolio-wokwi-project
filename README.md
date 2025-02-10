@@ -9,4 +9,4 @@ Este repositório contém alguns dos meus projetos na área de automação e pro
 ## 🛠️ Tecnologias Utilizadas  
 - **Microcontroladores:** ESP32 
 - **Linguagens:** C 
-- **Simulação:** Wokwi 
+- **Simulações:** Wokwi 
